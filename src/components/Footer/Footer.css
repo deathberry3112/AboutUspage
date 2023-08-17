@@ -1,0 +1,15 @@
+.footer-container{
+    width: 80%;
+    margin: 4vh auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30vh;
+    background-color: #F7F6F6;
+}
+.final-footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
